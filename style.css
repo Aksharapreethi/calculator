@@ -1,0 +1,99 @@
+.calu{
+     /* justify-content: center; 
+     justify-items: center; */
+    margin: 5%;
+    padding-left: 30%;
+}
+.bbtn{
+
+    width: 50px;
+    height: 50px;
+    
+}
+.btn{
+    width: 50px;
+height: 50px;
+color: cyan;
+background-color: rgb(184, 98, 115);
+}
+.btn:hover{
+    background-color: rgb(117, 7, 40);
+}
+.cbtn{
+    width: 156px;
+    height: 50px;
+    /* color: wheat; */
+    
+}
+.cbtn:hover{
+    background-color: red;
+}
+.dbtn{
+    height: 50px;
+    width: 207px;
+}
+form{
+    background-color: black;
+    width: 220px;
+}
+.mbtn {
+    width: 50px;
+    height: 50px;
+}
+ .mbtn:hover{
+background-color: deeppink;
+color: darkblue;
+}
+.sbtn{
+    width: 50px;
+    height: 50px;
+}
+.sbtn:hover{
+    background-color: deeppink;
+color: darkblue;
+}
+.abtn{
+    width: 50px;
+    height: 50px;
+}
+.abtn:hover{
+    background-color: deeppink;
+    color: darkblue;
+}
+.dibtn{
+    width: 50px;
+    height: 50px;
+}
+.dibtn:hover{
+    background-color: deeppink;
+    color: darkblue;
+}
+.tbtn{
+    width: 50px;
+    height: 50px;
+}
+.tbtn:hover{
+    background-color: deeppink;
+    color: darkblue;
+}
+.ebtn{
+    width: 50px;
+    height: 50px;
+}
+.ebtn:hover{
+    background-color: deeppink;
+    color: darkblue;
+}
+
+
+.bbtn{
+    width: 50px;
+    height: 50px;
+}
+.bbtn:hover{
+    background-color: deeppink;
+    color: darkblue;
+}
+.logo{
+    color: crimson;
+}
